@@ -1,0 +1,7 @@
+tensorflow==2.20.0
+numpy
+opencv-python
+pillow
+scikit-image
+tqdm
+matplotlib
